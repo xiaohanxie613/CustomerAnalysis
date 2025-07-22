@@ -14,5 +14,11 @@ A C++ program that imports and analyzes marketing campaign data from a CSV file 
   4. **Predictive Spending Behavior** – Displays expected average spending by predicted group (Low, Mid, High).
   5. **Exit** – Closes the tool gracefully.
 
-## 📁 Project Structure
+## 🔭 Future Plans
+
+- ** Search:** Add a search feature to isolate specific individuals or categories
+- **Data Visualization:** Add graphs or charts (e.g., using Python or a C++ GUI wrapper) to display trends visually.
+- **Export Results:** Enable exporting analysis results to CSV or formatted reports.
+- **Machine Learning Integration:** Train a lightweight model (outside of C++) to predict customer response likelihood to campaigns.
+- **Dynamic CSV Input:** Allow the user to specify or upload different CSV files at runtime.
 
